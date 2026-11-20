@@ -1,0 +1,70 @@
+id,nome_canonico,aparece_em,tipo,observacao
+HomemDeFerro,Tony Stark,GI+UL,principal,
+CapitaoAmerica,Steve Rogers,GI+UL,principal,Steve idoso no fim de UL usa este mesmo id
+CapitaoAmerica2012,Steve Rogers (2012),UL,secundario,Versão do passado; fala e luta com CapitaoAmerica em NovaYork2012
+Thor,Thor,GI+UL,principal,
+Hulk,Bruce Banner,GI+UL,principal,"Banner, Hulk e Professor Hulk usam o mesmo id"
+ViuvaNegra,Natasha Romanoff,GI+UL,principal,
+GaviaoArqueiro,Clint Barton,UL,principal,Ronin usa o mesmo id
+MaquinaDeCombate,James Rhodes,GI+UL,principal,
+CapitaMarvel,Carol Danvers,UL,secundario,
+HomemFormiga,Scott Lang,UL,principal,
+Vespa,Hope van Dyne,UL,figurante,Confirmar se tem troca verbal
+HomemAranha,Peter Parker,GI+UL,principal,
+DoutorEstranho,Stephen Strange,GI+UL,principal,
+Wong,Wong,GI+UL,secundario,
+FeiticeiraEscarlate,Wanda Maximoff,GI+UL,principal,
+Visao,Visão,GI,principal,
+Falcao,Sam Wilson,GI+UL,secundario,
+LoboBranco,Bucky Barnes,GI+UL,secundario,Também aparece em GI (Wakanda)
+PanteraNegra,T'Challa,GI+UL,principal,
+Okoye,Okoye,GI+UL,secundario,
+Shuri,Shuri,GI+UL,secundario,
+MBaku,M'Baku,GI,figurante,
+SenhorDasEstrelas,Peter Quill,GI+UL,principal,
+Gamora,Gamora,GI,principal,Gamora de GI. A Gamora criança da cena da Joia da Alma usa este id
+Gamora2014,Gamora (2014),UL,secundario,Versão do passado que chega com Thanos2014
+Nebula,Nebulosa,GI+UL,principal,
+Nebula2014,Nebulosa (2014),UL,secundario,Versão do passado; fala com Nebula
+Drax,Drax,GI+UL,secundario,
+Mantis,Mantis,GI+UL,secundario,
+Rocket,Rocket,GI+UL,principal,
+Groot,Groot,GI+UL,secundario,"A fala ""I am Groot"" conta como fala"
+Thanos,Thanos,GI+UL,principal,"Thanos de 2018, morto no início de UL"
+Thanos2014,Thanos (2014),UL,principal,Versão do passado que invade 2023
+FauceDeEbano,Fauce de Ébano,GI+UL,secundario,Em UL é a versão de 2014; mesmo id
+ProximaMeiaNoite,Próxima Meia-Noite,GI+UL,figurante,Em UL é a versão de 2014; mesmo id
+CorvusGlaive,Corvus Glaive,GI+UL,figurante,Em UL é a versão de 2014; mesmo id
+CullObsidian,Cull Obsidian,GI+UL,figurante,Quase não fala; provavelmente sem registros
+Loki,Loki,GI,secundario,Loki de 2018
+Loki2012,Loki (2012),UL,figurante,Versão do passado em NovaYork2012
+Heimdall,Heimdall,GI,figurante,
+Eitri,Eitri,GI,secundario,
+CaveiraVermelha,Caveira Vermelha,GI+UL,secundario,Guardião da Joia da Alma em Vormir
+Colecionador,Taneleer Tivan,GI,figurante,Ilusão em Lugarnenhum; confirmar se há troca
+PepperPotts,Pepper Potts,GI+UL,secundario,
+MorganStark,Morgan Stark,UL,secundario,
+HappyHogan,Happy Hogan,UL,figurante,
+NedLeeds,Ned Leeds,GI,figurante,
+GeneralRoss,Thaddeus Ross,GI,figurante,Fala por holograma no Complexo
+NickFury,Nick Fury,GI,figurante,Cena pós-créditos
+MariaHill,Maria Hill,GI,figurante,Cena pós-créditos
+Valquiria,Valquíria,UL,figurante,
+Korg,Korg,UL,figurante,
+Miek,Miek,UL,figurante,Não fala; provavelmente sem registros
+HankPym,Hank Pym,UL,figurante,Confirmar se tem troca verbal
+JanetVanDyne,Janet van Dyne,UL,figurante,Confirmar se tem troca verbal
+RainhaFrigga,Frigga,UL,secundario,Fala com Thor em Asgard2013
+HowardStark,Howard Stark,UL,secundario,Fala com HomemDeFerro em CampLehigh1970
+EdwinJarvis,Edwin Jarvis,UL,figurante,Confirmar se tem troca verbal
+AgenteCarter,Peggy Carter,UL,figurante,Confirmar se tem troca verbal
+SecretarioPierce,Alexander Pierce,UL,figurante,Confirmar se tem troca verbal
+BrockRumlow,Brock Rumlow,UL,figurante,Elevador em NovaYork2012
+JasperSitwell,Jasper Sitwell,UL,figurante,Elevador em NovaYork2012
+Ancia,Anciã,UL,secundario,Fala com Hulk em NovaYork2012
+Cassie,Cassie Lang,UL,figurante,
+LauraBarton,Laura Barton,UL,figurante,
+LilaBarton,Lila Barton,UL,figurante,
+HarleyKeener,Harley Keener,UL,figurante,Funeral; provavelmente sem registros
+FRIDAY,F.R.I.D.A.Y.,GI+UL,secundario,IA de Tony; conta como personagem
+Karen,Karen,UL,figurante,IA do traje do Homem-Aranha; conta como personagem
